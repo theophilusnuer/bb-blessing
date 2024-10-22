@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base{
+  @font-face {
+    font-family: 'choplin-light';
+    src: url('/fonts/Choplin-ExtraLight-DEMO.otf'), format('opentype');
+  }
+  @font-face {
+    font-family: 'choplin-bold';
+    src: url('/fonts/Choplin-Medium-DEMO.otf'), format('opentype');
+  }
+}
+
+body {
+  font-family: 'Afacad Flux', 'sans-serif';
+  color: white;
+  font-weight: 100;
+}
