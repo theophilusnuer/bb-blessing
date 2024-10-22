@@ -15,7 +15,7 @@ const Footer = () => {
                 <div className='flex flex-col'>
                     <span className='font-semibold py-[1.97rem] text-2xl'>Our Location</span>
                     <span className='text-xl py-2'>Madina, Rawlings Circle </span>
-                    <span className='text-xl py-2'>BehindP-cular Heights </span>
+                    <span className='text-xl py-2'>Behind P-cular Heights </span>
                     <span className='text-xl pb-4'>GM-020-6022 </span>
                 </div>
 
