@@ -6,7 +6,7 @@ import Footer from "../../components/footer";
 
 const Landing = () => {
   return (
-    <div className="bg-black">
+    <div id="#" className="bg-black">
       <Hero/>
       <Whatwedo/>
       <HowWeDoIt/>
